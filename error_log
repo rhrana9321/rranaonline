@@ -1,0 +1,226 @@
+[31-May-2018 11:43:40 Asia/Dhaka] PHP Fatal error:  Can't use method return value in write context in /home/photoshopexpert/public_html/application/controllers/software/Product_distribute.php on line 47
+[02-Jun-2018 15:49:14 Asia/Dhaka] PHP Fatal error:  Can't use method return value in write context in /home/photoshopexpert/public_html/application/controllers/software/Product_distribute.php on line 46
+[02-Jun-2018 15:49:33 Asia/Dhaka] PHP Fatal error:  Can't use method return value in write context in /home/photoshopexpert/public_html/application/controllers/software/Product_distribute.php on line 46
+[02-Jun-2018 15:49:59 Asia/Dhaka] PHP Fatal error:  Can't use method return value in write context in /home/photoshopexpert/public_html/application/controllers/software/Product_distribute.php on line 46
+[02-Jun-2018 15:50:35 Asia/Dhaka] PHP Fatal error:  Can't use method return value in write context in /home/photoshopexpert/public_html/application/controllers/software/Product_distribute.php on line 46
+[02-Jun-2018 15:51:59 Asia/Dhaka] PHP Fatal error:  Can't use method return value in write context in /home/photoshopexpert/public_html/application/controllers/software/Product_distribute.php on line 46
+[02-Jun-2018 15:52:02 Asia/Dhaka] PHP Fatal error:  Can't use method return value in write context in /home/photoshopexpert/public_html/application/controllers/software/Product_distribute.php on line 46
+[02-Jun-2018 15:52:03 Asia/Dhaka] PHP Fatal error:  Can't use method return value in write context in /home/photoshopexpert/public_html/application/controllers/software/Product_distribute.php on line 46
+[02-Jun-2018 15:52:05 Asia/Dhaka] PHP Fatal error:  Can't use method return value in write context in /home/photoshopexpert/public_html/application/controllers/software/Product_distribute.php on line 46
+[02-Jun-2018 15:52:06 Asia/Dhaka] PHP Fatal error:  Can't use method return value in write context in /home/photoshopexpert/public_html/application/controllers/software/Product_distribute.php on line 46
+[02-Jun-2018 15:52:08 Asia/Dhaka] PHP Fatal error:  Can't use method return value in write context in /home/photoshopexpert/public_html/application/controllers/software/Product_distribute.php on line 46
+[02-Jun-2018 15:52:11 Asia/Dhaka] PHP Fatal error:  Can't use method return value in write context in /home/photoshopexpert/public_html/application/controllers/software/Product_distribute.php on line 46
+[02-Jun-2018 15:52:12 Asia/Dhaka] PHP Fatal error:  Can't use method return value in write context in /home/photoshopexpert/public_html/application/controllers/software/Product_distribute.php on line 46
+[02-Jun-2018 15:52:13 Asia/Dhaka] PHP Fatal error:  Can't use method return value in write context in /home/photoshopexpert/public_html/application/controllers/software/Product_distribute.php on line 46
+[02-Jun-2018 15:52:16 Asia/Dhaka] PHP Fatal error:  Can't use method return value in write context in /home/photoshopexpert/public_html/application/controllers/software/Product_distribute.php on line 46
+[02-Jun-2018 16:04:23 Asia/Dhaka] PHP Fatal error:  Can't use method return value in write context in /home/photoshopexpert/public_html/application/controllers/software/Product_distribute.php on line 46
+[07-Jul-2018 00:59:07 America/Chicago] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/photoshopexpert/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Jul-2018 00:59:09 America/Chicago] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/photoshopexpert/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[09-Jul-2018 04:57:39 America/Chicago] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/photoshopexpert/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[10-Sep-2018 10:16:16 Asia/Dhaka] PHP Fatal error:  Call to a member function contents() on a non-object in /home/photoshopexpert/public_html/application/views/superadmin/purchase_entrypage.php on line 70
+[10-Sep-2018 10:25:40 Asia/Dhaka] PHP Fatal error:  Call to undefined method M_join::weborderDetails2() in /home/photoshopexpert/public_html/application/controllers/software/Pivn_details.php on line 44
+[10-Sep-2018 10:25:56 Asia/Dhaka] PHP Fatal error:  Call to undefined method M_join::weborderDetails2() in /home/photoshopexpert/public_html/application/controllers/software/Pivn_details.php on line 44
+[10-Sep-2018 10:38:55 Asia/Dhaka] PHP Fatal error:  Call to undefined method M_join::weborderDetails2() in /home/photoshopexpert/public_html/application/controllers/software/Pivn_details.php on line 44
+[10-Sep-2018 10:44:46 Asia/Dhaka] PHP Fatal error:  Call to a member function row() on a non-object in /home/photoshopexpert/public_html/application/models/M_cloud.php on line 126
+[10-Sep-2018 10:46:51 Asia/Dhaka] PHP Fatal error:  Call to a member function row() on a non-object in /home/photoshopexpert/public_html/application/models/M_cloud.php on line 126
+[10-Sep-2018 10:47:52 Asia/Dhaka] PHP Fatal error:  Call to a member function row() on a non-object in /home/photoshopexpert/public_html/application/models/M_cloud.php on line 126
+[27-Aug-2019 05:50:33 America/Chicago] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home1/sawebsoft123/public_html/Mowla_Brothers/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[27-Aug-2019 05:54:33 America/Chicago] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home1/sawebsoft123/public_html/Mowla_Brothers/application/controllers/software/Final_Books_Manage.php on line 85
+[27-Aug-2019 05:55:17 America/Chicago] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home1/sawebsoft123/public_html/Mowla_Brothers/application/controllers/software/Final_Books_Manage.php on line 85
+[27-Aug-2019 05:57:02 America/Chicago] PHP Parse error:  syntax error, unexpected 'and' (T_LOGICAL_AND), expecting ')' in /home1/sawebsoft123/public_html/Mowla_Brothers/application/controllers/software/Final_Books_Manage.php on line 85
+[27-Aug-2019 05:58:27 America/Chicago] PHP Parse error:  syntax error, unexpected 'and' (T_LOGICAL_AND), expecting ')' in /home1/sawebsoft123/public_html/Mowla_Brothers/application/controllers/software/Final_Books_Manage.php on line 87
+[28-Aug-2019 02:54:57 America/Chicago] PHP Fatal error:  Call to a member function row() on a non-object in /home1/sawebsoft123/public_html/Mowla_Brothers/application/models/M_superadmin.php on line 38
+[28-Aug-2019 02:54:58 America/Chicago] PHP Fatal error:  Call to a member function row() on a non-object in /home1/sawebsoft123/public_html/Mowla_Brothers/application/models/M_superadmin.php on line 38
+[28-Aug-2019 02:55:21 America/Chicago] PHP Fatal error:  Call to a member function row() on a non-object in /home1/sawebsoft123/public_html/Mowla_Brothers/application/models/M_superadmin.php on line 38
+[28-Aug-2019 02:55:43 America/Chicago] PHP Fatal error:  Call to a member function row() on a non-object in /home1/sawebsoft123/public_html/Mowla_Brothers/application/models/M_superadmin.php on line 38
+[28-Aug-2019 02:55:44 America/Chicago] PHP Fatal error:  Call to a member function row() on a non-object in /home1/sawebsoft123/public_html/Mowla_Brothers/application/models/M_superadmin.php on line 38
+[28-Aug-2019 02:56:30 America/Chicago] PHP Fatal error:  Call to a member function row() on a non-object in /home1/sawebsoft123/public_html/Mowla_Brothers/application/models/M_superadmin.php on line 38
+[28-Aug-2019 07:03:45 America/Chicago] PHP Fatal error:  Call to a member function row() on a non-object in /home1/sawebsoft123/public_html/Mowla_Brothers/application/models/M_superadmin.php on line 38
+[28-Aug-2019 07:04:09 America/Chicago] PHP Fatal error:  Call to a member function row() on a non-object in /home1/sawebsoft123/public_html/Mowla_Brothers/application/models/M_superadmin.php on line 38
+[28-Aug-2019 07:05:30 America/Chicago] PHP Fatal error:  Call to a member function row() on a non-object in /home1/sawebsoft123/public_html/Mowla_Brothers/application/models/M_superadmin.php on line 38
+[22-Apr-2020 23:29:35 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home2/smsdeal/public_html/application/models/M_cloud.php on line 247
+[23-Apr-2020 15:12:33 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home2/smsdeal/public_html/application/controllers/Upozila/Card_Gen_Bulk.php on line 28
+[23-Apr-2020 15:12:38 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home2/smsdeal/public_html/application/controllers/Upozila/Card_Gen_Bulk.php on line 28
+[23-Apr-2020 15:12:59 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home2/smsdeal/public_html/application/controllers/Upozila/Card_Gen_Bulk.php on line 28
+[23-Apr-2020 15:13:20 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home2/smsdeal/public_html/application/controllers/Upozila/Card_Gen_Bulk.php on line 28
+[23-Apr-2020 21:40:09 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home2/smsdeal/public_html/application/controllers/Upozila/Card_Gen_Bulk.php on line 28
+[23-Apr-2020 21:41:14 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home2/smsdeal/public_html/application/controllers/Upozila/Card_Gen_Bulk.php on line 28
+[23-Apr-2020 21:41:56 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home2/smsdeal/public_html/application/controllers/Upozila/Card_Gen_Bulk.php on line 28
+[23-Apr-2020 21:42:32 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home2/smsdeal/public_html/application/controllers/Upozila/Card_Gen_Bulk.php on line 28
+[24-Apr-2020 00:23:45 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home2/smsdeal/public_html/application/models/M_cloud.php on line 247
+[24-Apr-2020 11:43:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'OR' (T_LOGICAL_OR), expecting ')' in /home2/smsdeal/public_html/application/libraries/Authorization_Token.php on line 114
+[24-Apr-2020 11:44:50 America/Chicago] PHP Parse error:  syntax error, unexpected 'OR' (T_LOGICAL_OR), expecting ')' in /home2/smsdeal/public_html/application/libraries/Authorization_Token.php on line 114
+[24-Apr-2020 11:48:20 America/Chicago] PHP Parse error:  syntax error, unexpected 'OR' (T_LOGICAL_OR), expecting ')' in /home2/smsdeal/public_html/application/libraries/Authorization_Token.php on line 114
+[24-Apr-2020 11:48:42 America/Chicago] PHP Parse error:  syntax error, unexpected 'OR' (T_LOGICAL_OR), expecting ')' in /home2/smsdeal/public_html/application/libraries/Authorization_Token.php on line 114
+[24-Apr-2020 12:10:53 America/Chicago] PHP Parse error:  syntax error, unexpected 'OR' (T_LOGICAL_OR), expecting ')' in /home2/smsdeal/public_html/application/libraries/Authorization_Token.php on line 114
+[24-Apr-2020 12:15:03 America/Chicago] PHP Parse error:  syntax error, unexpected 'OR' (T_LOGICAL_OR), expecting ')' in /home2/smsdeal/public_html/application/libraries/Authorization_Token.php on line 114
+[24-Apr-2020 12:16:02 America/Chicago] PHP Parse error:  syntax error, unexpected 'OR' (T_LOGICAL_OR), expecting ')' in /home2/smsdeal/public_html/application/libraries/Authorization_Token.php on line 114
+[24-Apr-2020 12:16:10 America/Chicago] PHP Parse error:  syntax error, unexpected 'OR' (T_LOGICAL_OR), expecting ')' in /home2/smsdeal/public_html/application/libraries/Authorization_Token.php on line 114
+[24-Apr-2020 12:16:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'OR' (T_LOGICAL_OR), expecting ')' in /home2/smsdeal/public_html/application/libraries/Authorization_Token.php on line 114
+[24-Apr-2020 12:16:38 America/Chicago] PHP Parse error:  syntax error, unexpected 'OR' (T_LOGICAL_OR), expecting ')' in /home2/smsdeal/public_html/application/libraries/Authorization_Token.php on line 114
+[24-Apr-2020 12:16:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'OR' (T_LOGICAL_OR), expecting ')' in /home2/smsdeal/public_html/application/libraries/Authorization_Token.php on line 114
+[24-Apr-2020 12:17:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'OR' (T_LOGICAL_OR), expecting ')' in /home2/smsdeal/public_html/application/libraries/Authorization_Token.php on line 114
+[24-Apr-2020 12:17:06 America/Chicago] PHP Parse error:  syntax error, unexpected 'OR' (T_LOGICAL_OR), expecting ')' in /home2/smsdeal/public_html/application/libraries/Authorization_Token.php on line 114
+[24-Apr-2020 12:17:47 America/Chicago] PHP Parse error:  syntax error, unexpected 'OR' (T_LOGICAL_OR), expecting ')' in /home2/smsdeal/public_html/application/libraries/Authorization_Token.php on line 114
+[24-Apr-2020 12:26:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'OR' (T_LOGICAL_OR), expecting ')' in /home2/smsdeal/public_html/application/libraries/Authorization_Token.php on line 114
+[24-Apr-2020 12:28:32 America/Chicago] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home2/smsdeal/public_html/application/libraries/Authorization_Token.php on line 114
+[24-Apr-2020 12:29:07 America/Chicago] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR), expecting ')' in /home2/smsdeal/public_html/application/libraries/Authorization_Token.php on line 114
+[24-Apr-2020 15:12:57 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home2/smsdeal/public_html/application/models/M_cloud.php on line 271
+[24-Apr-2020 15:50:07 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home2/smsdeal/public_html/application/models/M_cloud.php on line 271
+[25-Apr-2020 04:14:53 America/Chicago] PHP Fatal error:  Call to undefined method M_join::finduser_with_upzilla() in /home2/smsdeal/public_html/application/controllers/Upozila/Tran_grohita_list.php on line 35
+[25-Apr-2020 04:15:27 America/Chicago] PHP Fatal error:  Call to undefined method M_join::finduser_with_upzilla() in /home2/smsdeal/public_html/application/controllers/Upozila/Tran_grohita_list.php on line 35
+[25-Apr-2020 04:15:39 America/Chicago] PHP Fatal error:  Call to undefined method M_join::finduser_with_upzilla() in /home2/smsdeal/public_html/application/controllers/Upozila/Tran_grohita_list.php on line 35
+[25-Apr-2020 04:15:43 America/Chicago] PHP Fatal error:  Call to undefined method M_join::finduser_with_upzilla() in /home2/smsdeal/public_html/application/controllers/Upozila/Tran_grohita_list.php on line 35
+[25-Apr-2020 04:16:22 America/Chicago] PHP Fatal error:  Call to undefined method M_join::finduser_with_upzilla() in /home2/smsdeal/public_html/application/controllers/Upozila/Tran_grohita_list.php on line 35
+[25-Apr-2020 12:06:05 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/smsdeal/public_html/application/controllers/Upozila/Csv_File_Upload_manage.php on line 103
+[25-Apr-2020 12:09:02 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/smsdeal/public_html/application/controllers/Upozila/Csv_File_Upload_manage.php on line 103
+[25-Apr-2020 12:09:06 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/smsdeal/public_html/application/controllers/Upozila/Csv_File_Upload_manage.php on line 103
+[25-Apr-2020 12:09:11 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/smsdeal/public_html/application/controllers/Upozila/Csv_File_Upload_manage.php on line 103
+[25-Apr-2020 12:17:27 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/smsdeal/public_html/application/controllers/Upozila/Csv_File_Upload_manage.php on line 103
+[25-Apr-2020 12:26:50 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/smsdeal/public_html/application/controllers/Upozila/Csv_File_Upload_manage.php on line 103
+[25-Apr-2020 12:27:38 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/smsdeal/public_html/application/controllers/Upozila/Csv_File_Upload_manage.php on line 103
+[25-Apr-2020 15:00:44 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home2/smsdeal/public_html/application/models/M_cloud.php on line 281
+[25-Apr-2020 15:00:49 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home2/smsdeal/public_html/application/models/M_cloud.php on line 281
+[27-Apr-2020 02:29:47 America/Chicago] PHP Fatal error:  Call to undefined method M_cloud::finduser_with_district() in /home2/smsdeal/public_html/application/controllers/Zila/Card_Gen_Bulk.php on line 53
+[28-Apr-2020 00:13:25 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home2/smsdeal/public_html/application/models/M_cloud.php on line 281
+[28-Apr-2020 00:13:28 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home2/smsdeal/public_html/application/models/M_cloud.php on line 281
+[28-Apr-2020 12:57:49 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home2/smsdeal/public_html/application/models/M_cloud.php on line 352
+[28-Apr-2020 23:33:14 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home2/smsdeal/public_html/application/controllers/Upozila/Dashboard.php on line 51
+[28-Apr-2020 23:33:36 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home2/smsdeal/public_html/application/controllers/Upozila/Dashboard.php on line 51
+[29-Apr-2020 10:35:35 America/Chicago] PHP Fatal error:  Call to undefined method M_join::finddealer_with_upzilla() in /home2/smsdeal/public_html/application/controllers/api/Users.php on line 127
+[30-Apr-2020 07:53:14 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home2/smsdeal/public_html/application/controllers/Upozila/Dashboard.php on line 51
+[30-Apr-2020 07:53:18 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home2/smsdeal/public_html/application/controllers/Upozila/Dashboard.php on line 51
+[30-Apr-2020 07:53:20 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home2/smsdeal/public_html/application/controllers/Upozila/Dashboard.php on line 51
+[30-Apr-2020 07:53:21 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home2/smsdeal/public_html/application/controllers/Upozila/Dashboard.php on line 51
+[30-Apr-2020 07:53:22 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home2/smsdeal/public_html/application/controllers/Upozila/Dashboard.php on line 51
+[30-Apr-2020 07:53:22 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home2/smsdeal/public_html/application/controllers/Upozila/Dashboard.php on line 51
+[30-Apr-2020 07:53:23 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home2/smsdeal/public_html/application/controllers/Upozila/Dashboard.php on line 51
+[30-Apr-2020 07:53:23 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home2/smsdeal/public_html/application/controllers/Upozila/Dashboard.php on line 51
+[30-Apr-2020 07:53:23 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home2/smsdeal/public_html/application/controllers/Upozila/Dashboard.php on line 51
+[30-Apr-2020 07:53:23 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home2/smsdeal/public_html/application/controllers/Upozila/Dashboard.php on line 51
+[30-Apr-2020 07:53:24 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home2/smsdeal/public_html/application/controllers/Upozila/Dashboard.php on line 51
+[30-Apr-2020 07:53:24 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home2/smsdeal/public_html/application/controllers/Upozila/Dashboard.php on line 51
+[30-Apr-2020 07:53:25 America/Chicago] PHP Fatal error:  Call to a member function result() on a non-object in /home2/smsdeal/public_html/application/controllers/Upozila/Dashboard.php on line 51
+[01-May-2020 05:50:18 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[01-May-2020 06:05:00 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[01-May-2020 06:07:06 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[01-May-2020 08:50:21 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home2/smsdeal/public_html/application/controllers/software/Ministry.php on line 45
+[01-May-2020 08:50:50 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home2/smsdeal/public_html/application/controllers/software/Ministry.php on line 45
+[01-May-2020 08:50:57 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home2/smsdeal/public_html/application/controllers/software/Ministry.php on line 45
+[01-May-2020 08:51:47 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home2/smsdeal/public_html/application/controllers/software/Ministry.php on line 45
+[01-May-2020 09:02:22 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home2/smsdeal/public_html/application/controllers/software/Ministry.php on line 45
+[01-May-2020 09:02:34 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home2/smsdeal/public_html/application/controllers/software/Ministry.php on line 45
+[01-May-2020 14:23:12 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home2/smsdeal/public_html/application/controllers/software/Ministry.php on line 45
+[02-May-2020 17:13:14 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home2/smsdeal/public_html/application/controllers/software/Ministry.php on line 45
+[02-May-2020 17:13:17 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home2/smsdeal/public_html/application/controllers/software/Ministry.php on line 45
+[02-May-2020 17:13:22 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home2/smsdeal/public_html/application/controllers/software/Ministry.php on line 45
+[02-May-2020 17:13:51 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home2/smsdeal/public_html/application/controllers/software/Ministry.php on line 45
+[02-May-2020 17:14:36 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home2/smsdeal/public_html/application/controllers/software/Ministry.php on line 45
+[02-May-2020 17:15:12 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home2/smsdeal/public_html/application/controllers/software/Create_Divisional_Admin.php on line 97
+[02-May-2020 17:15:18 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home2/smsdeal/public_html/application/controllers/software/Create_Divisional_Admin.php on line 97
+[02-May-2020 17:15:19 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home2/smsdeal/public_html/application/controllers/software/Create_Divisional_Admin.php on line 97
+[02-May-2020 17:15:25 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home2/smsdeal/public_html/application/controllers/software/Create_Divisional_Admin.php on line 97
+[02-May-2020 17:16:30 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home2/smsdeal/public_html/application/controllers/software/Ministry.php on line 45
+[02-May-2020 17:17:01 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home2/smsdeal/public_html/application/controllers/software/Ministry.php on line 45
+[02-May-2020 17:17:51 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home2/smsdeal/public_html/application/controllers/software/Create_Divisional_Admin.php on line 97
+[02-May-2020 17:17:54 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home2/smsdeal/public_html/application/controllers/software/Create_Divisional_Admin.php on line 97
+[02-May-2020 17:18:54 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home2/smsdeal/public_html/application/controllers/software/Ministry.php on line 45
+[02-May-2020 17:20:29 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home2/smsdeal/public_html/application/controllers/software/Ministry.php on line 45
+[02-May-2020 17:20:52 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home2/smsdeal/public_html/application/controllers/software/Ministry.php on line 45
+[02-May-2020 17:21:39 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home2/smsdeal/public_html/application/controllers/software/Ministry.php on line 45
+[02-May-2020 17:22:01 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home2/smsdeal/public_html/application/controllers/software/Ministry.php on line 53
+[02-May-2020 17:27:00 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home2/smsdeal/public_html/application/controllers/software/Create_Divisional_Admin.php on line 97
+[02-May-2020 17:27:43 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home2/smsdeal/public_html/application/controllers/software/Create_Divisional_Admin.php on line 97
+[03-May-2020 01:32:52 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[03-May-2020 01:45:16 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[03-May-2020 08:59:36 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[03-May-2020 09:20:21 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[03-May-2020 09:20:45 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[03-May-2020 09:21:00 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[03-May-2020 09:21:52 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[03-May-2020 11:47:10 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[03-May-2020 12:13:40 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[03-May-2020 12:14:52 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[03-May-2020 12:15:05 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[03-May-2020 12:15:17 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[03-May-2020 12:23:51 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[03-May-2020 12:25:16 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[07-May-2020 10:46:10 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[07-May-2020 11:24:47 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[09-May-2020 01:16:31 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 18875288 bytes) in /home2/smsdeal/public_html/system/database/drivers/mysqli/mysqli_utility.php on line 196
+[11-Jul-2020 22:42:37 Asia/Dhaka] PHP Fatal error:  Call to a member function row() on a non-object in /home2/sahebd/meghnalink.com/Net/application/models/M_superadmin.php on line 38
+[14-Jul-2020 08:35:00 Asia/Dhaka] PHP Fatal error:  Call to a member function row() on a non-object in /home2/sahebd/meghnalink.com/Net/application/models/M_cloud.php on line 205
+[14-Jul-2020 08:36:33 Asia/Dhaka] PHP Fatal error:  Call to a member function row() on a non-object in /home2/sahebd/meghnalink.com/Net/application/models/M_cloud.php on line 205
+[14-Jul-2020 08:36:36 Asia/Dhaka] PHP Fatal error:  Call to a member function row() on a non-object in /home2/sahebd/meghnalink.com/Net/application/models/M_cloud.php on line 205
+[14-Jul-2020 08:37:05 Asia/Dhaka] PHP Fatal error:  Call to a member function row() on a non-object in /home2/sahebd/meghnalink.com/Net/application/models/M_cloud.php on line 205
+[21-Jul-2020 22:13:22 Asia/Dhaka] PHP Fatal error:  Call to a member function row() on a non-object in /home2/sahebd/meghnalink.com/Net/application/models/M_cloud.php on line 205
+[21-Jul-2020 22:19:32 Asia/Dhaka] PHP Fatal error:  Call to a member function row() on a non-object in /home2/sahebd/meghnalink.com/Net/application/models/M_cloud.php on line 205
+[21-Jul-2020 22:20:54 Asia/Dhaka] PHP Fatal error:  Call to a member function row() on a non-object in /home2/sahebd/meghnalink.com/Net/application/models/M_cloud.php on line 205
+[23-Jul-2020 23:15:53 Asia/Dhaka] PHP Fatal error:  Call to a member function row() on a non-object in /home2/sahebd/meghnalink.com/Net/application/models/M_cloud.php on line 205
+[23-Jul-2020 23:18:55 Asia/Dhaka] PHP Fatal error:  Call to a member function row() on a non-object in /home2/sahebd/meghnalink.com/Net/application/models/M_cloud.php on line 205
+[23-Jul-2020 23:19:44 Asia/Dhaka] PHP Fatal error:  Call to a member function row() on a non-object in /home2/sahebd/meghnalink.com/Net/application/models/M_cloud.php on line 205
+[03-Aug-2020 22:57:30 Asia/Dhaka] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[03-Aug-2020 22:57:30 Asia/Dhaka] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[03-Aug-2020 23:11:13 Asia/Dhaka] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[03-Aug-2020 23:11:13 Asia/Dhaka] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[03-Aug-2020 23:11:13 Asia/Dhaka] PHP Fatal error:  Call to undefined function mysqli_init() in /home2/sahebd/meghnalink.com/Net/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[04-Aug-2020 13:45:54 Asia/Dhaka] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[04-Aug-2020 13:45:54 Asia/Dhaka] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[04-Aug-2020 13:45:54 Asia/Dhaka] PHP Fatal error:  Call to undefined function mysqli_init() in /home2/sahebd/meghnalink.com/Net/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[04-Aug-2020 14:52:33 Asia/Dhaka] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[04-Aug-2020 14:52:33 Asia/Dhaka] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[04-Aug-2020 14:52:33 Asia/Dhaka] PHP Fatal error:  Call to undefined function mysqli_init() in /home2/sahebd/meghnalink.com/Net/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[04-Aug-2020 20:11:35 Asia/Dhaka] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[04-Aug-2020 20:11:35 Asia/Dhaka] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[04-Aug-2020 20:11:35 Asia/Dhaka] PHP Fatal error:  Call to undefined function mysqli_init() in /home2/sahebd/meghnalink.com/Net/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[04-Aug-2020 22:06:24 Asia/Dhaka] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[04-Aug-2020 22:06:24 Asia/Dhaka] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[04-Aug-2020 22:06:24 Asia/Dhaka] PHP Fatal error:  Call to undefined function mysqli_init() in /home2/sahebd/meghnalink.com/Net/system/database/drivers/mysqli/mysqli_driver.php on line 135
